@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "2caea1d5269e6af640ae77af",
+  "owner": "hfjnqeg",
+  "repo": "page-6a3dc5eeb0b917317c10f9f4",
+  "title": "MZFast",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6a3dc5eeb0b917317c10f9f4",
+      "a": "MZFast",
+      "b": "免费订阅clash节点",
+      "entity": "MZFast",
+      "brand": "MZFast",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3800deb1da5620a8e7d879cfe23dde9eeea55e955752180fd50e321b1df0c14a",
+      "content": {
+        "primary_entity": "MZFast",
+        "keyword1": "MZFast",
+        "keyword2": "免费订阅clash节点",
+        "content": {
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月流量从 100GB 到 1000GB，设备数从 3 台到 20 台，按年付更划算，适合不同规模的个人与企业用户。",
+          "AI_HERO_SUBTITLE": "按设备与流量选套餐",
+          "AI_HERO_INTRO": "MZFast 提供基础版、旗舰版与团队版三档套餐，每月流量覆盖 100GB 至 1000GB，同时在线设备从 3 台到 20 台，支持按年付节省费用。可根据自身设备数量与流媒体、游戏加速需求匹配对应档位。",
+          "AI_VISUAL_TITLE": "三档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "100GB 至 1000GB 月流量可选",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "年付低至 10 个月价格",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURES_INTRO": "从设备数量、月流量与流媒体需求出发，快速锁定合适档位。",
+          "AI_FEATURE_TITLE_1": "按设备数选版本",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按实际在线设备数量选择。",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TEXT_2": "每月 100GB 适合轻度浏览，300GB 覆盖多数流媒体，1000GB 满足团队协作。",
+          "AI_FEATURE_TITLE_3": "年付更省费用",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150 每月折合 ¥12.5，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备系统选择订阅客户端，并参照客户端文档完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，年付分别只需 ¥150、¥350、¥850。",
+          "AI_GUIDE_TITLE": "三步使用流程",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅配置，按步骤操作即可。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版或团队版中选定套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本，确保客户端支持订阅导入方式。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅链接，按客户端文档完成节点选择与更新设置。",
+          "AI_CLOSING_TITLE": "选对套餐",
+          "AI_CLOSING_TEXT": "按设备数与流量挑好档位，导入订阅即可开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备、IPLC 专线；团队版每月 1000GB、20 台设备并支持企业定制路由。",
+          "AI_FAQ_ANSWER_2": "基础版和旗舰版面向个人或小团队，旗舰版增加专线游戏加速优化；团队版适合设备多、流量需求高并需要定制路由的场景。",
+          "AI_FAQ_ANSWER_3": "月付灵活，年付更划算：基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，折合每月成本都低于月付价格。",
+          "AI_FAQ_ANSWER_4": "Windows、macOS、Android、iOS 和路由器都有对应客户端可选择，按设备系统安装后导入订阅配置即可使用。",
+          "AI_FAQ_ANSWER_5": "套餐已标注同时在线设备数，基础版 3 台、旗舰版 5 台、团队版 20 台，超出时可在客户端退出其他设备或升级套餐。",
+          "AI_FAQ_QUESTION_1": "MZFast 三档套餐各包含多少流量和设备数？",
+          "AI_FAQ_QUESTION_2": "基础版、旗舰版和团队版分别适合什么用户？",
+          "AI_FAQ_QUESTION_3": "月付和年付的价格差异大吗？",
+          "AI_FAQ_QUESTION_4": "支持哪些设备客户端接入？",
+          "AI_FAQ_QUESTION_5": "同时在线设备数超出套餐限制怎么办？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c3c311b2a8eaa96078d7c2b432a32fca8dae8e9ffc5dd273a1de902a00f51319",
+    "sitemap.xml": "6914aca223080ecf72f53f861ae7454d1213c35bca0b3c97db893271c8e1b6b2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "0b69c1929b150bfe3ccd0bfde400d140ea006a0ee90f905e9495927a28ca5c98"
+}
